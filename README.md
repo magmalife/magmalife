@@ -29,7 +29,7 @@
 - Learning more Programming languages
 
 #### GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=magmalife&count_private=true&show_icons=true&theme=radical"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=magmalife&count_private=true&show_icons=true&theme=nord"></img>
 
 [youtube]: https://www.youtube.com/channel/UCF-aPa-bj2vlUqQTIQnBhQQ
 [twitter]: https://twitter.com/magmalifes
