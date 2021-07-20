@@ -12,16 +12,15 @@
 [<img src="https://i.imgur.com/0w0wcV1.png" width="40px"></img>][youtube]
 
 #### Languages and Tools:
-<img src="https://i.imgur.com/JMqnpZn.png" width="40px"></img>
-<img src="https://i.imgur.com/koKdSuJ.png" width="40px"></img>
-<img src="https://i.imgur.com/YbVxDv2.png" width="40px"></img>
-<img src="https://i.imgur.com/YuBxurf.png" width="40px"></img>
-<img src="https://i.imgur.com/PO3PsXa.png" width="40px"></img>
-<img src="https://i.imgur.com/rsMmzbF.png" width="40px"></img>
-<img src="https://i.imgur.com/MaepwLa.png" width="40px"></img>
-<img src="https://i.imgur.com/LsuufUr.png" width="40px"></img>
-<img src="https://i.imgur.com/FlizaDL.png" width="40px"></img>
-<img src="https://i.imgur.com/gY8OEPa.png" width="40px"></img>
+<img src="https://i.imgur.com/q7gXvUo.png" width="40px"></img> &nbsp;	
+<img src="https://i.imgur.com/A0x1qXS.png" width="40px"></img> 
+<img src="https://i.imgur.com/2zAe6BN.png" width="40px"></img>
+<img src="https://i.imgur.com/pjVKHlE.png" width="40px"></img>
+<img src="https://i.imgur.com/dJUT9vr.png" width="40px"></img>
+<img src="https://i.imgur.com/waU6iOJ.png" width="40px"></img> &nbsp;	
+<img src="https://i.imgur.com/0dzxubP.png" width="40px"></img> 
+<img src="https://i.imgur.com/Z6SK6XX.png" width="40px"></img> &nbsp;	
+<img src="https://i.imgur.com/3QqJGqn.png" width="40px"></img>
 
 
 #### Goals in 2021
