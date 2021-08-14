@@ -1,35 +1,26 @@
-### Hey there, I'm Max - aka magmalife!
+<div align="center">
+<a href="#"><img src="https://i.imgur.com/erp4gRI.png" width="60px"></img></a>
+</div>
 
-#### About me
-- I’m currently learning basicly every Programming language!
-- I live in Germany
-- Fun fact: I can play the violin
+---
 
-#### Social Media
+#### **Quick Introduction**
 
-[<img src="https://i.imgur.com/mAfp2vz.png" width="40px"></img>][twitter]
-[<img src="https://i.imgur.com/AozsCZm.png" width="40px"></img>][instagram]
-[<img src="https://i.imgur.com/0w0wcV1.png" width="40px"></img>][youtube]
+Hey, I'm Max - aka magmalife, live in Hamburg, Germany
+and can play the violin!
 
-#### Languages and Tools:
-<img src="https://i.imgur.com/q7gXvUo.png" width="40px"></img> &nbsp;	
-<img src="https://i.imgur.com/A0x1qXS.png" width="40px"></img> 
-<img src="https://i.imgur.com/2zAe6BN.png" width="40px"></img>
-<img src="https://i.imgur.com/pjVKHlE.png" width="40px"></img>
-<img src="https://i.imgur.com/dJUT9vr.png" width="40px"></img>
-<img src="https://i.imgur.com/waU6iOJ.png" width="40px"></img> &nbsp;	
-<img src="https://i.imgur.com/0dzxubP.png" width="40px"></img> 
-<img src="https://i.imgur.com/Z6SK6XX.png" width="40px"></img> &nbsp;	
-<img src="https://i.imgur.com/3QqJGqn.png" width="40px"></img>
+#### **Goals in 2021**
 
-
-#### Goals in 2021
+- Learn more Programming languages
 - Contribute more to Open Source projects
-- Learning more Programming languages
 
-#### GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=magmalife&count_private=true&show_icons=true&theme=nord"></img>
+#### **Contact**
 
-[youtube]: https://www.youtube.com/channel/UCF-aPa-bj2vlUqQTIQnBhQQ
-[twitter]: https://twitter.com/magmalifes
-[instagram]: https://instagram.com/magmalife
+- magmalife#2021 - DISCORD
+  
+
+<div align="center">
+<a href="https://instagram.com/magmalife"><img src="https://i.imgur.com/56bFtLU.png" width="40px"></img></a>
+<a href="https://twitter.com/magmalifes"><img src="https://i.imgur.com/S5o0adU.png" width="40px"></img></a>
+<a href="#"><img src="https://i.imgur.com/kMVUIFf.png" width="40px"></img></a>
+</div>
