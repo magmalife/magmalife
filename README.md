@@ -1,9 +1,3 @@
-<div align="center">
-<a href="#"><img src="https://i.imgur.com/erp4gRI.png" width="60px"></img></a>
-</div>
-
----
-
 #### **Quick Introduction**
 
 Hey, I'm Max - aka magmalife, live in Hamburg, Germany
