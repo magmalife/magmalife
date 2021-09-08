@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.imgur.com/9moNSW1.png" width="400px"></img>
+</div>
+
 #### **Quick Introduction**
 
 Hey, I'm Max - aka magmalife, live in Hamburg, Germany
