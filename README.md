@@ -18,7 +18,6 @@ and can play the violin!
   
 
 <div align="center">
-<a href="https://instagram.com/magmalife"><img src="https://i.imgur.com/56bFtLU.png" width="40px"></img></a>
-<a href="https://twitter.com/magmalifes"><img src="https://i.imgur.com/S5o0adU.png" width="40px"></img></a>
-<a href="#"><img src="https://i.imgur.com/kMVUIFf.png" width="40px"></img></a>
+<a href="https://instagram.com/magmalife"><img src="https://i.imgur.com/oZ5en38.png" width="40px"></img></a>
+<a href="https://twitter.com/magmalifes"><img src="https://i.imgur.com/jECn9ob.png" width="40px"></img></a>
 </div>
