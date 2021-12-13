@@ -14,7 +14,7 @@ and can play the violin!
 
 #### **Contact**
 
-- magmalife#2021 - DISCORD
+- magmalife#0689 - DISCORD
   
 
 <div align="center">
