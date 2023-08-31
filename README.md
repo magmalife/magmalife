@@ -7,7 +7,7 @@
 Hey, I'm Max - aka magmalife, live in Hamburg, Germany
 and can play the violin!
 
-#### **Goals in 2021**
+#### **Goals in 2023**
 
 - Learn more Programming languages
 - Contribute more to Open Source projects
